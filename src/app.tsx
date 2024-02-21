@@ -1,9 +1,11 @@
 import { keepPreviousData, useQuery } from "@tanstack/react-query";
 import { FileDown, Filter, MoreHorizontal, Plus, Search } from "lucide-react";
-import { Pagination } from "./components/pagination";
-import { Button } from "./components/ui/button";
+import { FormEvent, useState } from "react";
+import { useSearchParams } from "react-router-dom";
 import { Header } from "./components/header";
+import { Pagination } from "./components/pagination";
 import { Tabs } from "./components/tabs";
+import { Button } from "./components/ui/button";
 import { Control, Input } from "./components/ui/input";
 import {
   Table,
@@ -13,9 +15,6 @@ import {
   TableHeader,
   TableRow,
 } from "./components/ui/table";
-import { useSearchParams } from "react-router-dom";
-import { FormEvent, useEffect, useState } from "react";
-import { useDebounceValue } from "./hooks/use-debounce-value";
 
 export interface TagsPageQuery {
   first: number;
