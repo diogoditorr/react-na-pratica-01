@@ -40,7 +40,7 @@ export function App() {
 
   const [filter, setFilter] = useState(urlFilter);
 
-  const { data: tagsResponse, isLoading } = useQuery<TagsPageQuery>({
+  const { data: tagsResponse } = useQuery<TagsPageQuery>({
     queryKey: ["get-tags", { page, urlFilter }],
     queryFn: async () => {
       const response = await fetch(
@@ -64,10 +64,6 @@ export function App() {
     });
   }
 
-  if (isLoading) {
-    return null;
-  }
-
   return (
     <div className="py-10 space-y-8">
       <div>
@@ -86,7 +82,7 @@ export function App() {
         </div>
 
         <div className="flex items-center justify-between">
-          <form onSubmit={handleFilter} className="flex items-center">
+          <form onSubmit={handleFilter} className="flex items-center gap-2">
             <Input variant="filter">
               <Search className="size-3" />
               <Control
@@ -98,7 +94,7 @@ export function App() {
 
             <Button type="submit">
               <Filter className="size-3" />
-              Filter
+              Apply filter
             </Button>
           </form>
 
