@@ -1,104 +1,700 @@
 {
   "tags": [
-    { "title": "ipsum", "amountOfVideos": 197 },
-    { "title": "ultrices", "amountOfVideos": 159 },
-    { "title": "vel", "amountOfVideos": 80 },
-    { "title": "sapien", "amountOfVideos": 3 },
-    { "title": "sapien", "amountOfVideos": 245 },
-    { "title": "facilisi", "amountOfVideos": 271 },
-    { "title": "quis", "amountOfVideos": 144 },
-    { "title": "nonummy", "amountOfVideos": 239 },
-    { "title": "nam", "amountOfVideos": 68 },
-    { "title": "blandit", "amountOfVideos": 285 },
-    { "title": "cras", "amountOfVideos": 116 },
-    { "title": "diam", "amountOfVideos": 255 },
-    { "title": "non", "amountOfVideos": 171 },
-    { "title": "ipsum", "amountOfVideos": 49 },
-    { "title": "odio", "amountOfVideos": 109 },
-    { "title": "convallis", "amountOfVideos": 183 },
-    { "title": "vel", "amountOfVideos": 285 },
-    { "title": "congue", "amountOfVideos": 149 },
-    { "title": "sapien", "amountOfVideos": 217 },
-    { "title": "a", "amountOfVideos": 298 },
-    { "title": "eleifend", "amountOfVideos": 73 },
-    { "title": "mauris", "amountOfVideos": 163 },
-    { "title": "ut", "amountOfVideos": 239 },
-    { "title": "elementum", "amountOfVideos": 137 },
-    { "title": "diam", "amountOfVideos": 200 },
-    { "title": "rutrum", "amountOfVideos": 37 },
-    { "title": "ipsum", "amountOfVideos": 199 },
-    { "title": "ac", "amountOfVideos": 72 },
-    { "title": "sapien", "amountOfVideos": 127 },
-    { "title": "nullam", "amountOfVideos": 8 },
-    { "title": "justo", "amountOfVideos": 28 },
-    { "title": "parturient", "amountOfVideos": 135 },
-    { "title": "lectus", "amountOfVideos": 29 },
-    { "title": "diam", "amountOfVideos": 21 },
-    { "title": "eget", "amountOfVideos": 227 },
-    { "title": "quisque", "amountOfVideos": 193 },
-    { "title": "libero", "amountOfVideos": 299 },
-    { "title": "natoque", "amountOfVideos": 99 },
-    { "title": "vulputate", "amountOfVideos": 293 },
-    { "title": "luctus", "amountOfVideos": 81 },
-    { "title": "velit", "amountOfVideos": 33 },
-    { "title": "amet", "amountOfVideos": 164 },
-    { "title": "maecenas", "amountOfVideos": 187 },
-    { "title": "quam", "amountOfVideos": 269 },
-    { "title": "vivamus", "amountOfVideos": 238 },
-    { "title": "ultrices", "amountOfVideos": 16 },
-    { "title": "tincidunt", "amountOfVideos": 236 },
-    { "title": "rhoncus", "amountOfVideos": 45 },
-    { "title": "morbi", "amountOfVideos": 224 },
-    { "title": "dui", "amountOfVideos": 47 },
-    { "title": "sem", "amountOfVideos": 239 },
-    { "title": "dapibus", "amountOfVideos": 163 },
-    { "title": "neque", "amountOfVideos": 96 },
-    { "title": "erat", "amountOfVideos": 203 },
-    { "title": "augue", "amountOfVideos": 111 },
-    { "title": "aliquet", "amountOfVideos": 272 },
-    { "title": "purus", "amountOfVideos": 83 },
-    { "title": "ipsum", "amountOfVideos": 131 },
-    { "title": "praesent", "amountOfVideos": 198 },
-    { "title": "ipsum", "amountOfVideos": 20 },
-    { "title": "vestibulum", "amountOfVideos": 37 },
-    { "title": "nibh", "amountOfVideos": 255 },
-    { "title": "dictumst", "amountOfVideos": 200 },
-    { "title": "nec", "amountOfVideos": 137 },
-    { "title": "eget", "amountOfVideos": 270 },
-    { "title": "luctus", "amountOfVideos": 268 },
-    { "title": "varius", "amountOfVideos": 77 },
-    { "title": "ipsum", "amountOfVideos": 241 },
-    { "title": "sollicitudin", "amountOfVideos": 194 },
-    { "title": "volutpat", "amountOfVideos": 129 },
-    { "title": "sapien", "amountOfVideos": 266 },
-    { "title": "leo", "amountOfVideos": 167 },
-    { "title": "eu", "amountOfVideos": 169 },
-    { "title": "mauris", "amountOfVideos": 80 },
-    { "title": "ornare", "amountOfVideos": 267 },
-    { "title": "curabitur", "amountOfVideos": 294 },
-    { "title": "tincidunt", "amountOfVideos": 178 },
-    { "title": "sit", "amountOfVideos": 148 },
-    { "title": "lorem", "amountOfVideos": 300 },
-    { "title": "integer", "amountOfVideos": 99 },
-    { "title": "aliquet", "amountOfVideos": 26 },
-    { "title": "turpis", "amountOfVideos": 287 },
-    { "title": "cubilia", "amountOfVideos": 134 },
-    { "title": "ullamcorper", "amountOfVideos": 173 },
-    { "title": "magna", "amountOfVideos": 42 },
-    { "title": "massa", "amountOfVideos": 39 },
-    { "title": "sed", "amountOfVideos": 114 },
-    { "title": "amet", "amountOfVideos": 202 },
-    { "title": "justo", "amountOfVideos": 192 },
-    { "title": "ut", "amountOfVideos": 283 },
-    { "title": "et", "amountOfVideos": 89 },
-    { "title": "lobortis", "amountOfVideos": 50 },
-    { "title": "iaculis", "amountOfVideos": 92 },
-    { "title": "morbi", "amountOfVideos": 229 },
-    { "title": "tincidunt", "amountOfVideos": 69 },
-    { "title": "at", "amountOfVideos": 162 },
-    { "title": "aliquet", "amountOfVideos": 231 },
-    { "title": "rhoncus", "amountOfVideos": 134 },
-    { "title": "cursus", "amountOfVideos": 49 },
-    { "title": "congue", "amountOfVideos": 223 }
+    {
+      "id": 1,
+      "title": "eu",
+      "slug": "recontextualize granular action-items",
+      "amountOfVideos": 438
+    },
+    {
+      "id": 2,
+      "title": "est",
+      "slug": "monetize wireless relationships",
+      "amountOfVideos": 498
+    },
+    {
+      "id": 3,
+      "title": "luctus",
+      "slug": "seize integrated markets",
+      "amountOfVideos": 398
+    },
+    {
+      "id": 4,
+      "title": "at",
+      "slug": "transform bricks-and-clicks infomediaries",
+      "amountOfVideos": 12
+    },
+    {
+      "id": 5,
+      "title": "nam",
+      "slug": "facilitate vertical systems",
+      "amountOfVideos": 3
+    },
+    {
+      "id": 6,
+      "title": "et",
+      "slug": "empower efficient e-business",
+      "amountOfVideos": 259
+    },
+    {
+      "id": 7,
+      "title": "libero",
+      "slug": "recontextualize global infrastructures",
+      "amountOfVideos": 230
+    },
+    {
+      "id": 8,
+      "title": "vitae",
+      "slug": "optimize e-business bandwidth",
+      "amountOfVideos": 439
+    },
+    {
+      "id": 9,
+      "title": "posuere",
+      "slug": "transform virtual networks",
+      "amountOfVideos": 97
+    },
+    {
+      "id": 10,
+      "title": "consequat",
+      "slug": "leverage bricks-and-clicks relationships",
+      "amountOfVideos": 441
+    },
+    {
+      "id": 11,
+      "title": "ultrices",
+      "slug": "whiteboard 24/365 partnerships",
+      "amountOfVideos": 405
+    },
+    {
+      "id": 12,
+      "title": "proin",
+      "slug": "repurpose 24/365 bandwidth",
+      "amountOfVideos": 134
+    },
+    {
+      "id": 13,
+      "title": "sollicitudin",
+      "slug": "engage world-class content",
+      "amountOfVideos": 447
+    },
+    {
+      "id": 14,
+      "title": "dictumst",
+      "slug": "unleash cutting-edge vortals",
+      "amountOfVideos": 313
+    },
+    {
+      "id": 15,
+      "title": "ultricies",
+      "slug": "repurpose innovative partnerships",
+      "amountOfVideos": 247
+    },
+    {
+      "id": 16,
+      "title": "nulla",
+      "slug": "mesh 24/365 applications",
+      "amountOfVideos": 241
+    },
+    {
+      "id": 17,
+      "title": "odio",
+      "slug": "incubate visionary architectures",
+      "amountOfVideos": 78
+    },
+    {
+      "id": 18,
+      "title": "magna",
+      "slug": "repurpose B2B users",
+      "amountOfVideos": 262
+    },
+    {
+      "id": 19,
+      "title": "vulputate",
+      "slug": "deploy granular interfaces",
+      "amountOfVideos": 427
+    },
+    {
+      "id": 20,
+      "title": "orci",
+      "slug": "cultivate holistic applications",
+      "amountOfVideos": 310
+    },
+    {
+      "id": 21,
+      "title": "nam",
+      "slug": "productize impactful content",
+      "amountOfVideos": 107
+    },
+    {
+      "id": 22,
+      "title": "ante",
+      "slug": "exploit holistic markets",
+      "amountOfVideos": 496
+    },
+    {
+      "id": 23,
+      "title": "turpis",
+      "slug": "repurpose leading-edge deliverables",
+      "amountOfVideos": 204
+    },
+    {
+      "id": 24,
+      "title": "posuere",
+      "slug": "whiteboard world-class solutions",
+      "amountOfVideos": 130
+    },
+    {
+      "id": 25,
+      "title": "ipsum",
+      "slug": "monetize scalable action-items",
+      "amountOfVideos": 464
+    },
+    {
+      "id": 26,
+      "title": "in",
+      "slug": "implement dynamic functionalities",
+      "amountOfVideos": 195
+    },
+    {
+      "id": 27,
+      "title": "sed",
+      "slug": "repurpose frictionless portals",
+      "amountOfVideos": 202
+    },
+    {
+      "id": 28,
+      "title": "est",
+      "slug": "productize world-class vortals",
+      "amountOfVideos": 437
+    },
+    {
+      "id": 29,
+      "title": "ridiculus",
+      "slug": "mesh intuitive e-markets",
+      "amountOfVideos": 185
+    },
+    {
+      "id": 30,
+      "title": "volutpat",
+      "slug": "incentivize killer infrastructures",
+      "amountOfVideos": 377
+    },
+    {
+      "id": 31,
+      "title": "dui",
+      "slug": "syndicate cross-media models",
+      "amountOfVideos": 359
+    },
+    {
+      "id": 32,
+      "title": "suscipit",
+      "slug": "enhance front-end experiences",
+      "amountOfVideos": 440
+    },
+    {
+      "id": 33,
+      "title": "ut",
+      "slug": "envisioneer visionary action-items",
+      "amountOfVideos": 270
+    },
+    {
+      "id": 34,
+      "title": "nulla",
+      "slug": "enhance enterprise eyeballs",
+      "amountOfVideos": 124
+    },
+    {
+      "id": 35,
+      "title": "morbi",
+      "slug": "grow cross-platform action-items",
+      "amountOfVideos": 343
+    },
+    {
+      "id": 36,
+      "title": "rutrum",
+      "slug": "e-enable best-of-breed markets",
+      "amountOfVideos": 345
+    },
+    {
+      "id": 37,
+      "title": "lacus",
+      "slug": "empower bleeding-edge convergence",
+      "amountOfVideos": 305
+    },
+    {
+      "id": 38,
+      "title": "ligula",
+      "slug": "extend end-to-end e-markets",
+      "amountOfVideos": 246
+    },
+    {
+      "id": 39,
+      "title": "enim",
+      "slug": "e-enable e-business e-commerce",
+      "amountOfVideos": 132
+    },
+    {
+      "id": 40,
+      "title": "id",
+      "slug": "whiteboard synergistic functionalities",
+      "amountOfVideos": 194
+    },
+    {
+      "id": 41,
+      "title": "eget",
+      "slug": "recontextualize web-enabled methodologies",
+      "amountOfVideos": 438
+    },
+    {
+      "id": 42,
+      "title": "orci",
+      "slug": "unleash viral mindshare",
+      "amountOfVideos": 253
+    },
+    {
+      "id": 43,
+      "title": "justo",
+      "slug": "recontextualize e-business relationships",
+      "amountOfVideos": 7
+    },
+    {
+      "id": 44,
+      "title": "consectetuer",
+      "slug": "e-enable leading-edge paradigms",
+      "amountOfVideos": 2
+    },
+    {
+      "id": 45,
+      "title": "eget",
+      "slug": "extend B2C vortals",
+      "amountOfVideos": 448
+    },
+    {
+      "id": 46,
+      "title": "quisque",
+      "slug": "deploy transparent mindshare",
+      "amountOfVideos": 227
+    },
+    {
+      "id": 47,
+      "title": "iaculis",
+      "slug": "engage value-added paradigms",
+      "amountOfVideos": 26
+    },
+    {
+      "id": 48,
+      "title": "volutpat",
+      "slug": "enable distributed schemas",
+      "amountOfVideos": 109
+    },
+    {
+      "id": 49,
+      "title": "tincidunt",
+      "slug": "innovate extensible users",
+      "amountOfVideos": 429
+    },
+    {
+      "id": 50,
+      "title": "potenti",
+      "slug": "transition distributed channels",
+      "amountOfVideos": 86
+    },
+    {
+      "id": 51,
+      "title": "aenean",
+      "slug": "harness revolutionary web-readiness",
+      "amountOfVideos": 18
+    },
+    {
+      "id": 52,
+      "title": "ac",
+      "slug": "scale dot-com supply-chains",
+      "amountOfVideos": 400
+    },
+    {
+      "id": 53,
+      "title": "dui",
+      "slug": "synthesize global initiatives",
+      "amountOfVideos": 365
+    },
+    {
+      "id": 54,
+      "title": "tempor",
+      "slug": "repurpose user-centric users",
+      "amountOfVideos": 184
+    },
+    {
+      "id": 55,
+      "title": "ultrices",
+      "slug": "maximize virtual web services",
+      "amountOfVideos": 78
+    },
+    {
+      "id": 56,
+      "title": "vel",
+      "slug": "facilitate compelling infrastructures",
+      "amountOfVideos": 337
+    },
+    {
+      "id": 57,
+      "title": "feugiat",
+      "slug": "incentivize strategic action-items",
+      "amountOfVideos": 338
+    },
+    {
+      "id": 58,
+      "title": "lobortis",
+      "slug": "incubate transparent e-markets",
+      "amountOfVideos": 98
+    },
+    {
+      "id": 59,
+      "title": "accumsan",
+      "slug": "integrate efficient synergies",
+      "amountOfVideos": 335
+    },
+    {
+      "id": 60,
+      "title": "feugiat",
+      "slug": "unleash distributed applications",
+      "amountOfVideos": 200
+    },
+    {
+      "id": 61,
+      "title": "elit",
+      "slug": "envisioneer granular models",
+      "amountOfVideos": 11
+    },
+    {
+      "id": 62,
+      "title": "vivamus",
+      "slug": "brand world-class markets",
+      "amountOfVideos": 426
+    },
+    {
+      "id": 63,
+      "title": "nisi",
+      "slug": "envisioneer dynamic deliverables",
+      "amountOfVideos": 231
+    },
+    {
+      "id": 64,
+      "title": "molestie",
+      "slug": "extend extensible deliverables",
+      "amountOfVideos": 366
+    },
+    {
+      "id": 65,
+      "title": "mauris",
+      "slug": "productize holistic metrics",
+      "amountOfVideos": 254
+    },
+    {
+      "id": 66,
+      "title": "non",
+      "slug": "exploit enterprise bandwidth",
+      "amountOfVideos": 152
+    },
+    {
+      "id": 67,
+      "title": "vel",
+      "slug": "harness interactive applications",
+      "amountOfVideos": 77
+    },
+    {
+      "id": 68,
+      "title": "sapien",
+      "slug": "facilitate bleeding-edge applications",
+      "amountOfVideos": 227
+    },
+    {
+      "id": 69,
+      "title": "volutpat",
+      "slug": "implement revolutionary relationships",
+      "amountOfVideos": 493
+    },
+    {
+      "id": 70,
+      "title": "dapibus",
+      "slug": "productize front-end partnerships",
+      "amountOfVideos": 495
+    },
+    {
+      "id": 71,
+      "title": "risus",
+      "slug": "generate leading-edge paradigms",
+      "amountOfVideos": 497
+    },
+    {
+      "id": 72,
+      "title": "proin",
+      "slug": "seize vertical channels",
+      "amountOfVideos": 14
+    },
+    {
+      "id": 73,
+      "title": "morbi",
+      "slug": "synergize ubiquitous technologies",
+      "amountOfVideos": 479
+    },
+    {
+      "id": 74,
+      "title": "donec",
+      "slug": "disintermediate distributed e-business",
+      "amountOfVideos": 166
+    },
+    {
+      "id": 75,
+      "title": "quisque",
+      "slug": "innovate best-of-breed applications",
+      "amountOfVideos": 423
+    },
+    {
+      "id": 76,
+      "title": "vel",
+      "slug": "cultivate dot-com methodologies",
+      "amountOfVideos": 279
+    },
+    {
+      "id": 77,
+      "title": "risus",
+      "slug": "strategize cross-platform e-tailers",
+      "amountOfVideos": 412
+    },
+    {
+      "id": 78,
+      "title": "aliquam",
+      "slug": "repurpose strategic relationships",
+      "amountOfVideos": 350
+    },
+    {
+      "id": 79,
+      "title": "tortor",
+      "slug": "synergize web-enabled communities",
+      "amountOfVideos": 204
+    },
+    {
+      "id": 80,
+      "title": "proin",
+      "slug": "benchmark holistic experiences",
+      "amountOfVideos": 178
+    },
+    {
+      "id": 81,
+      "title": "mauris",
+      "slug": "redefine real-time initiatives",
+      "amountOfVideos": 176
+    },
+    {
+      "id": 82,
+      "title": "vel",
+      "slug": "architect end-to-end models",
+      "amountOfVideos": 284
+    },
+    {
+      "id": 83,
+      "title": "est",
+      "slug": "reintermediate bleeding-edge interfaces",
+      "amountOfVideos": 18
+    },
+    {
+      "id": 84,
+      "title": "vestibulum",
+      "slug": "revolutionize out-of-the-box architectures",
+      "amountOfVideos": 118
+    },
+    {
+      "id": 85,
+      "title": "nulla",
+      "slug": "strategize bleeding-edge convergence",
+      "amountOfVideos": 416
+    },
+    {
+      "id": 86,
+      "title": "et",
+      "slug": "monetize one-to-one functionalities",
+      "amountOfVideos": 296
+    },
+    {
+      "id": 87,
+      "title": "vulputate",
+      "slug": "evolve magnetic systems",
+      "amountOfVideos": 171
+    },
+    {
+      "id": 88,
+      "title": "rutrum",
+      "slug": "architect global web services",
+      "amountOfVideos": 65
+    },
+    {
+      "id": 89,
+      "title": "lorem",
+      "slug": "expedite back-end relationships",
+      "amountOfVideos": 310
+    },
+    {
+      "id": 90,
+      "title": "vestibulum",
+      "slug": "iterate user-centric functionalities",
+      "amountOfVideos": 2
+    },
+    {
+      "id": 91,
+      "title": "amet",
+      "slug": "enable e-business paradigms",
+      "amountOfVideos": 335
+    },
+    {
+      "id": 92,
+      "title": "varius",
+      "slug": "morph robust metrics",
+      "amountOfVideos": 460
+    },
+    {
+      "id": 93,
+      "title": "non",
+      "slug": "incentivize wireless niches",
+      "amountOfVideos": 255
+    },
+    {
+      "id": 94,
+      "title": "lorem",
+      "slug": "visualize impactful eyeballs",
+      "amountOfVideos": 239
+    },
+    {
+      "id": 95,
+      "title": "platea",
+      "slug": "target best-of-breed action-items",
+      "amountOfVideos": 275
+    },
+    {
+      "id": 96,
+      "title": "nulla",
+      "slug": "embrace collaborative experiences",
+      "amountOfVideos": 455
+    },
+    {
+      "id": 97,
+      "title": "accumsan",
+      "slug": "enhance web-enabled web services",
+      "amountOfVideos": 80
+    },
+    {
+      "id": 98,
+      "title": "vestibulum",
+      "slug": "leverage cutting-edge communities",
+      "amountOfVideos": 182
+    },
+    {
+      "id": 99,
+      "title": "morbi",
+      "slug": "disintermediate real-time schemas",
+      "amountOfVideos": 39
+    },
+    {
+      "id": 100,
+      "title": "quam",
+      "slug": "scale cutting-edge relationships",
+      "amountOfVideos": 411
+    },
+    {
+      "id": "044d",
+      "title": "Tag do Diego12",
+      "slug": "tag-do-diego12",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "e97c",
+      "title": "dawdwad",
+      "slug": "dawdwad",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "4370",
+      "title": "dawdwad",
+      "slug": "dawdwad",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "d58b",
+      "title": "dawdwad",
+      "slug": "dawdwad",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "529a",
+      "title": "dawdwad",
+      "slug": "dawdwad",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "ff6c",
+      "title": "123",
+      "slug": "123",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "a89e",
+      "title": "123'122",
+      "slug": "123122",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "6920",
+      "title": "Pç[a !@",
+      "slug": "pca-",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "0f74",
+      "title": "dwadawd aw dawda~[!@3!@ !@d",
+      "slug": "dwadawd-aw-dawda3-d",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "7704",
+      "title": "Olá!",
+      "slug": "ola",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "c46a",
+      "title": "Olá!12",
+      "slug": "ola12",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "c3d8",
+      "title": "Olá!1212",
+      "slug": "ola1212",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "c049",
+      "title": "Olá!1212dd",
+      "slug": "ola1212dd",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "2625",
+      "title": "Olá!@",
+      "slug": "ola",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "7dcf",
+      "title": "Deve aparecer na lista sozinho",
+      "slug": "deve-aparecer-na-lista-sozinho",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "869f",
+      "title": "Deve aparecer na lista sozinho",
+      "slug": "deve-aparecer-na-lista-sozinho",
+      "amountOfVideos": 0
+    }
   ]
 }
